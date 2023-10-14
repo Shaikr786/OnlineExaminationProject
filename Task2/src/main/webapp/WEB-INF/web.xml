@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+        <welcome-file>login.jsp</welcome-file>
+        <welcome-file>register.html</welcome-file>
+        <welcome-file>registration.jsp</welcome-file>
+        <welcome-file>profile.jsp</welcome-file>
+        <welcome-file>score.jsp</welcome-file>
+        <welcome-file>logout.jsp</welcome-file>
+        
+    </welcome-file-list>
+</web-app>
